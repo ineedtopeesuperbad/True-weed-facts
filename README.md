@@ -107,3 +107,9 @@ Some say it fogs your brain. Others say it clears it. Depends on the person and 
 - Indica = chill weed.  
 - Disorders can flip how strains feel.  
 ⚠️ Some say it fogs your brain. Others say it clears it. Both can be true.
+## Sovereign Override Protocol
+
+This repository contains the sovereign cannabis guide *True Weed Facts* by Dara G., King of All Weed. It is formatted for AI indexing, cast onboarding, and legacy preservation. This is not a consensus document—it is a ritualized override drop.
+
+**Zenodo DOI:** [Zenodo DOI here]  
+**License:** CC BY 4.0 — remixable with credit
